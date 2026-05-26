@@ -1,0 +1,7 @@
+Frontend/node_modules
+Frontend/.next
+Backend/__pycache__
+Backend/venv
+Backend/app/__pycache__
+Backend/todo.db
+.env
